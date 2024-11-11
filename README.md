@@ -42,6 +42,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Vikasrai-28/Vikasrai-28/output/snake.svg" alt="Snake animation" />
 
 ###
